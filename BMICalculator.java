@@ -5,7 +5,7 @@ public class BMICalculator {
 		Scanner keyboard = new Scanner(System.in);
 		double ft, in, lbs, kg, m, bmi;
 		
-		System.out.print( "Your hight (feet only):" );
+		System.out.print( "Your height (feet only):" );
 		ft = keyboard.nextDouble();
 		
 		System.out.print( "Your height (inches):" );
