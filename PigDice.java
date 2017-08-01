@@ -73,7 +73,7 @@ public class PigDice{
 			System.out.println( "Humanity wins!" );
 		}
 		else {
-			System.out.println( "The computer wins." );
+			System.out.println( "The computer wins. All hail our robot overlords!" );
 		}
 	}
 }
